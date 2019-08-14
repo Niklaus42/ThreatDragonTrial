@@ -20,8 +20,8 @@
                 "height": 100
               },
               "position": {
-                "x": 50,
-                "y": 50
+                "x": 463,
+                "y": 44
               },
               "angle": 0,
               "id": "dd6788a5-23f4-4afc-bac8-aced97cfb7d6",
@@ -33,6 +33,32 @@
                 },
                 "text": {
                   "text": "App\n(Smartphone)"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 50,
+                "y": 50
+              },
+              "angle": 0,
+              "id": "4c1d5a4f-ffd1-4b09-8d97-8294ba045f93",
+              "z": 2,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "User"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
