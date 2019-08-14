@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Trial 1",
+    "owner": "Niklaus",
+    "description": "Trial showing health monitor eco system."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Main",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Niklaus"
+  }
+}
